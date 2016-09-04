@@ -1,0 +1,33 @@
+{
+  "name": "reactlearn",
+  "version": "1.0.0",
+  "description": "self learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.5",
+    "connect-livereload": "^0.5.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-open": "^2.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "jquery": "^2.1.4"
+  },
+  "dependencies": {
+    "browserify": "^11.0.1",
+    "flux": "^2.0.3",
+    "gulp-eslint": "^0.15.0",
+    "lodash": "^4.15.0",
+    "object-assign": "^4.1.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
